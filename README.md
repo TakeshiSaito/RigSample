@@ -73,12 +73,12 @@ RigSample<br>
 
 このとき、フォルダ階層は以下のようなフォルダ構成になります。
 
-scripts/RigSample
-├───Character
-├───CharacterRig
-├───Images
-├───Maya
-└───RigSetup
+scripts/RigSample<br>
+├───Character<br>
+├───CharacterRig<br>
+├───Images<br>
+├───Maya<br>
+└───RigSetup<br>
 
 3. Maya/Sample.maを開いてください。
 4. Main.pyをスクリプトエディタから実行してください。これでリグのセットアップは完了です。
